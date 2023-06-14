@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Uni</string>
+    <string name="home_title">Home</string>
+    <string name="favorite_title">Favorite</string>
+    <string name="profile_title">Profile</string>
+    <string name="empty_favorite">List favorit kosong.</string>
+    <string name="search_hint">Cari Universitas</string>
+    <string name="email">daffapasya21@gmail.com</string>
+    <string name="name">Daffa Pasya</string>
+    <string name="about_me_title">About Me</string>
+    <string name="back">Back</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="remove_favorite">Remove from Favorite</string>
+    <string name="empty_list">Data Kosong</string>
+</resources>
